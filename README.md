@@ -6,7 +6,7 @@ This Repo has the files used to build our Crowdfunding prject.
 * The front end - index.js (present in pages folder)
 * The backend - deploy.js(present in scripts folder)
 
-## Methods used:
+## Key Points:
 For the Crowdfunding project, the .sol file involves 
 four main functions: to create a campaign, to donate 
 to a campaign, to get a particular campaign detail 
@@ -49,7 +49,7 @@ platform.
 
 * Praneel Patel GM
 Git cloned repo: git clone https://github.com/praneelpp/SCM-Starter.git
-This was used to deploy a contract on React DApp on hadrhat network. The contract, deploy.js and index.js have been changed as per our requirements. 
+This was used to deploy a contract on React DApp on Hardhat network. The contract, deploy.js and index.js have been changed as per our requirements. 
 
 ## License
 
