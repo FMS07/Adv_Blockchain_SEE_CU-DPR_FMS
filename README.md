@@ -41,10 +41,16 @@ platform.
 
 
 ## Authors
+* Chinmay Umesh
+* Durga Prasad C Reddy
+* Francis Maria Sharan
 
-Chinmay Umesh
-Durga Prasad C Reddy
-Francis Maria Sharan
+## Refernces: 
 
-##Refernces: 
-Praneel Gupta
+* Praneel Patel GM
+Git cloned repo: git clone https://github.com/praneelpp/SCM-Starter.git
+This was used to deploy a contract on React DApp on hadrhat network. The contract, deploy.js and index.js have been changed as per our requirements. 
+
+## License
+
+This project is licensed under the [MIT] License - see the LICENSE.md file for details
